@@ -1,0 +1,8 @@
+telegram:
+  api-url: "https://api.telegram.org/"
+  webhook-path: "https://6865-2a00-1370-8178-2ef9-888e-a530-9b1c-acb9.eu.ngrok.io"
+  bot-name: "@myTestBotForLearningBot"
+  bot-token: "5537154235:AAFj7bb8GT6YtxR_gCGmLc5Ja34qlz73qgk"
+    
+server:
+  port: 8080
